@@ -51,7 +51,7 @@
     //tomando decisões com base no respectivo retorno:
     if(!$mensagem -> mensagemValida()) {
         echo 'MENSAGEM INVÁLIDA';
-        header('Location: index.php');
+        header('Location: index.html');
     }
 
     $mail = new PHPMailer(true);
