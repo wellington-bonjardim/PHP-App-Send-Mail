@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Através desta aplicação proposta pela UDEMY, o usuário é capaz de enviar e-mails para qualquer destinatário válido de sua escolha. Na página principal, o usuário deverá preencher os 3 campos antes de enviar o e-mail. Caso não preencha algum dos campos, receberá uma mensagem solicitando o preenchimento do campo em questão. Após preencher todos os campos e enviar o e-mail, receberá uma mensagem de sucesso e terá a opção de voltar para a página principal para poder realizar o envio de um novo e-mail. Caso haja algum problema na parte do back-end, o usuário receberá uma mensagem de erro na tentativa de envio do e-mail indicando o tipo do erro, tendo a possibilidade de retornar para a página principal. Esta é uma aplicação funcional capaz de enviar e-mails através do serviço de SMTP (neste caso, foi utilizado um e-mail teste do outlook e não um do gmail devido as novas configurações de segurança do gmail).
+Através desta aplicação proposta pela UDEMY, o usuário é capaz de enviar e-mails para qualquer destinatário válido de sua escolha. Na página principal, o usuário deverá preencher os 3 campos antes de enviar o e-mail. Caso não preencha todos os campos, receberá uma mensagem solicitando o preenchimento do campo em questão. Após preencher todos os campos e enviar o e-mail, receberá uma mensagem de sucesso e terá a opção de voltar para a página principal para poder realizar o envio de um novo e-mail. Caso haja algum problema na parte do back-end, o usuário receberá uma mensagem de erro na tentativa de envio do e-mail indicando o tipo do erro, tendo a possibilidade de retornar para a página principal. Esta é uma aplicação funcional capaz de enviar e-mails através do serviço de SMTP (neste caso, foi utilizado um e-mail teste do outlook e não um do gmail devido as novas configurações de segurança do gmail).
 
 Ao desenvolver este projeto, foi possível estudar os conceitos de:
 - Paradigma de orientação à objetos;
@@ -17,7 +17,7 @@ Ao desenvolver este projeto, foi possível estudar os conceitos de:
 
 ![Web index](https://github.com/wellington-bonjardim/PHP-App-Send-Mail/blob/master/assets/principal.PNG)
 
-#### Tentativa de envio sem preencher algum dos campos:
+#### Tentativa de envio sem preencher todos dos campos:
 
 ![Web required](https://github.com/wellington-bonjardim/PHP-App-Send-Mail/blob/master/assets/required.PNG)
 
