@@ -31,7 +31,7 @@ Ao desenvolver este projeto, foi possível estudar os conceitos de:
 
 # Tecnologias utilizadas
 
-- HTML / BOOTSTRAP / PHP
+- HTML | BOOTSTRAP | PHP
 
 # Autor
 
